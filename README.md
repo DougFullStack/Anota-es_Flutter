@@ -1,6 +1,6 @@
 # Anotações
 
-A new Flutter project.
+
 
 ## App Notas Diárias
 
